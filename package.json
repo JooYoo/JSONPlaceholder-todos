@@ -1,0 +1,23 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "json:server:remote":"json-server https://my-json-server.typicode.com/JooYoo/JSONPlaceholder-todos/db"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JooYoo/JSONPlaceholder-todos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JooYoo/JSONPlaceholder-todos/issues"
+  },
+  "homepage": "https://github.com/JooYoo/JSONPlaceholder-todos#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
