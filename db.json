@@ -2,18 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "title": "new xBox",
-      "conpleted": false
+      "title": "new xBoxffdsfda",
+      "completed": true
     },
     {
       "id": 2,
       "title": "new PlayStation",
-      "conpleted": false
+      "completed": true
     },
     {
       "id": 3,
       "title": "new Switch",
-      "conpleted": false
+      "completed": false
     }
   ]
 }
